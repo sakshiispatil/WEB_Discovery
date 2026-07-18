@@ -591,7 +591,7 @@ export const EDUCATION: EducationEntry[] = [
     degree: "Honors Degree in DataScience",
     institution: "Mumbai University - SJCEM College",
     duration: "2024",
-    description: "Pragmatic, immersive post-graduate curriculum covering advanced Machine Learning architectures, distributed Spark computing, regression diagnostics, neural network training, and business analytics integration.",
+    description: "Pragmatic, immersive under-graduate curriculum covering advanced Machine Learning architectures, regression diagnostics, neural network training, and analytics integration.",
     capstonePdfUrl: "#/projects/agridx"
   },
   {
